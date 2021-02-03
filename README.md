@@ -11,8 +11,8 @@ This application can detect objects in any of the three ways:
 ## Screenshot
 
 <p align="center">
-  <img src="https://github.com/SatYu26/Flutter-Object-Detection/blob/main/realtime.gif?raw=true" width="300" >
-  <img src="https://github.com/SatYu26/Flutter-Object-Detection/blob/main/static.jpeg?raw=true" width="300" >
+  <img src="https://github.com/SatYu26/Flutter-Object-Detection/blob/main/realtime.gif?raw=true" width="300" height="650">
+  <img src="https://github.com/SatYu26/Flutter-Object-Detection/blob/main/static.jpeg?raw=true" width="300" height="650" >
 </p>
 
 ## Acknowledgement
